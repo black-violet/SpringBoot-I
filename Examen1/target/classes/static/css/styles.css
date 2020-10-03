@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+
+.contenedor{
+	max-height: 400px;
+	max-width: 840px;
+}
+.welcome{
+	position:relative;
+	left: 50px;
+}
+.login{
+	width: 300px;
+	height:200px;
+	border:grey 1px solid;
+	position:relative;
+	left: 500px;
+	bottom:300px;
+	padding:10px;
+}
+
+.r{
+	width:300px;
+	border:grey 1px solid;
+	position:relative;
+	left: 50px;
+	top:10px;
+	padding:10px;
+}
